@@ -1,0 +1,8 @@
+(kicad_sch (version 20220101) (generator eeschema)
+  (uuid a11ce000-droplet-rev-a-archive)
+  (paper "A4")
+  (title_block (title "Droplet revision A (archive)") (rev "A"))
+  (symbol (lib_id "Motor:Stepper") (at 120 90 0)
+    (property "Reference" "M1") (property "Value" "NEMA-11")
+  )
+)
